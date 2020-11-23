@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "976120889179",
+    "firebase_url": "https://testproject-c5f6c.firebaseio.com",
+    "project_id": "testproject-c5f6c",
+    "storage_bucket": "testproject-c5f6c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976120889179:android:0a4d9532592087a951e47e",
+        "android_client_info": {
+          "package_name": "com.growin.firebirdyogatest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976120889179-32d6f9ut8ref1jgha0f2r9oou7uiv80i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxywSOeTm0L3FpsSxvWA_HeGMS31DjpAA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976120889179-32d6f9ut8ref1jgha0f2r9oou7uiv80i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
